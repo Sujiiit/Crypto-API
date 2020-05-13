@@ -1,0 +1,5 @@
+secret.txt
+node_modules
+## we can add all files by specifing: *.txt
+## comments 
+ 
